@@ -1,0 +1,5 @@
+{
+    "eslint.workingDirectories": [
+        "./react-interview-starter-kit"
+    ]
+}
