@@ -1,0 +1,13 @@
+.gtignore
+.gitignore
+.vscode/
+.eslintrc.json
+.prettierrc
+.env
+
+public/
+package.json
+README.md
+reportWebVitals.js
+setupTests.js
+logo.svg
